@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "69c7e04432ab4d4fd81ada0c"
+  },
+  "wordId": "69c771ec4b9b3515e297277a",
+  "text": "elaborate more",
+  "username": "twinkle",
+  "createdAt": {
+    "$date": "2026-03-28T14:05:56.825Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c7e3b932ab4d4fd81ada3f"
+  },
+  "wordId": "69c788ef6201ef7d5acddced",
+  "text": "very helpful!!!!",
+  "username": "shinchan",
+  "createdAt": {
+    "$date": "2026-03-28T14:20:41.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c91db91f7b0d421b0d208c"
+  },
+  "wordId": "69c76246945d7ae169b89034",
+  "text": "wowww so helpful",
+  "username": "doraemon",
+  "createdAt": {
+    "$date": "2026-03-29T12:40:25.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c91eca1f7b0d421b0d20c8"
+  },
+  "wordId": "69c788ef6201ef7d5acddced",
+  "text": "nice!!!!",
+  "username": "sofiathefirst",
+  "createdAt": {
+    "$date": "2026-03-29T12:44:58.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69caa31933feb0cfb832977e"
+  },
+  "wordId": "69ca8e1533feb0cfb8329761",
+  "text": "hiii!!!",
+  "username": "rollno.22",
+  "createdAt": {
+    "$date": "2026-03-30T16:21:45.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69caa75833feb0cfb83297af"
+  },
+  "wordId": "69c76246945d7ae169b89034",
+  "text": "cute cat",
+  "username": "ky_13",
+  "createdAt": {
+    "$date": "2026-03-30T16:39:52.728Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69caa89533feb0cfb83297cb"
+  },
+  "wordId": "69c91dd11f7b0d421b0d2090",
+  "text": "nice",
+  "username": "rollno.22",
+  "createdAt": {
+    "$date": "2026-03-30T16:45:09.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cab6c7e75bcc4254c80e83"
+  },
+  "wordId": "69c91dd11f7b0d421b0d2090",
+  "text": "u da real elefant",
+  "username": "ky_13",
+  "createdAt": {
+    "$date": "2026-03-30T17:45:43.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cab71fe75bcc4254c80e9d"
+  },
+  "wordId": "69c76246945d7ae169b89034",
+  "text": "no it's not cute",
+  "username": "rollno.22",
+  "createdAt": {
+    "$date": "2026-03-30T17:47:11.581Z"
+  },
+  "__v": 0
+}]

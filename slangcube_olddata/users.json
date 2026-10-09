@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "69c784dc17e24e50b5ad0d9a"
+  },
+  "username": "ky_13",
+  "password": "blueberry",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c7df9032ab4d4fd81ad9e7"
+  },
+  "username": "twinkle",
+  "password": "abcdefg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c7e35032ab4d4fd81ada13"
+  },
+  "username": "shinchan",
+  "password": "shinchan123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c91d9b1f7b0d421b0d2080"
+  },
+  "username": "doraemon",
+  "password": "doraemon123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c91e9c1f7b0d421b0d20ae"
+  },
+  "username": "sofiathefirst",
+  "password": "iwasagirl",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69caa2ea33feb0cfb8329770"
+  },
+  "username": "rollno.22",
+  "password": "rollll",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea505cad9b45c7d0eb99d4"
+  },
+  "username": "hello",
+  "password": "bye",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea514140af0fbbb6226b36"
+  },
+  "username": "pinkfloyd",
+  "password": "floyd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea5527e2249f0a1586cd3c"
+  },
+  "username": "ari",
+  "password": "air",
+  "__v": 0
+}]

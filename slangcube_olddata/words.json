@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "69c76246945d7ae169b89034"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "katze",
+  "meaning": "cat",
+  "example": "sie ist eine katze",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c7625c945d7ae169b89039"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "hund",
+  "meaning": "dog",
+  "example": "er ist ein hund",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c767c1bf6fbff7b1ef1dbb"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "frau",
+  "meaning": "woman",
+  "example": "ich bin frau",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c771ec4b9b3515e297277a"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "urlaub",
+  "meaning": "vacation",
+  "example": "ich brauche einen urlaub",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c788ef6201ef7d5acddced"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "lied",
+  "meaning": "song",
+  "example": "das ist ein gutes lied",
+  "userId": "69c784dc17e24e50b5ad0d9a",
+  "username": "admin",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c78afee78596034f796f68"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "wasser",
+  "meaning": "water",
+  "example": "ich mag wasser",
+  "userId": "69c784dc17e24e50b5ad0d9a",
+  "username": "ky_13",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c7e03232ab4d4fd81ada00"
+  },
+  "languageId": "69c7e02332ab4d4fd81ad9fb",
+  "word": "madre",
+  "meaning": "mother",
+  "example": "mi madre",
+  "userId": "69c7df9032ab4d4fd81ad9e7",
+  "username": "twinkle",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c7e3aa32ab4d4fd81ada35"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "nein",
+  "meaning": "no",
+  "example": "ich bin nein hund",
+  "userId": "69c7e35032ab4d4fd81ada13",
+  "username": "shinchan",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c91dd11f7b0d421b0d2090"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "elefant",
+  "meaning": "elephant",
+  "example": "ich mag elefante",
+  "userId": "69c91d9b1f7b0d421b0d2080",
+  "username": "doraemon",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69c91ee51f7b0d421b0d20dd"
+  },
+  "languageId": "69c91ed51f7b0d421b0d20d8",
+  "word": "naam",
+  "meaning": "name",
+  "example": "mera naam hasini hain",
+  "userId": "69c91e9c1f7b0d421b0d20ae",
+  "username": "sofiathefirst",
+  "__v": 0,
+  "region": "germany"
+},
+{
+  "_id": {
+    "$oid": "69ca8e1533feb0cfb8329761"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "moin",
+  "meaning": "hello",
+  "example": "Moin julia!",
+  "region": "Northern Germany",
+  "userId": "admin",
+  "username": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69cb9d45e75bcc4254c80ee6"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "kiez",
+  "meaning": "a small part of a city",
+  "example": "unsere kiez",
+  "region": "berlin",
+  "userId": "69c784dc17e24e50b5ad0d9a",
+  "username": "ky_13",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ea50d8ad9b45c7d0eb99e4"
+  },
+  "languageId": "69c761e8945d7ae169b89026",
+  "word": "labbeduddel",
+  "meaning": "idiot",
+  "example": "er ist ein labbeduddel",
+  "region": "Hessen",
+  "userId": "69ea505cad9b45c7d0eb99d4",
+  "username": "hello",
+  "__v": 0
+}]

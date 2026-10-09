@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "69c761e8945d7ae169b89026"
+  },
+  "name": "German",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69c7e02332ab4d4fd81ad9fb"
+  },
+  "name": "Spanish",
+  "nameLower": "spanish",
+  "__v": 0
+}]
