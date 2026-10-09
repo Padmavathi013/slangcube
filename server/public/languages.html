@@ -62,7 +62,7 @@ function logout() {
 
 // Load languages
 async function loadLanguages() {
-  const res = await fetch("https://slangsite-production.up.railway.app/languages") // hardcoded;
+  const res = await fetch("/languages") // hardcoded;
   const data = await res.json();
 
   const list = document.getElementById("languageList");
@@ -87,7 +87,7 @@ async function addLanguage() {
   const name = document.getElementById("langInput").value;
 
   try {
-    const res = await fetch("https://slangsite-production.up.railway.app/languages", {
+    const res = await fetch("/languages", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
